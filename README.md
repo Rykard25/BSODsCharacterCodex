@@ -67,3 +67,6 @@ Quick-apply quality tags for specific models:
 ## Installation
 
 No installation required! This is a single-file HTML application.
+
+### CREDITS
+- ** https://huggingface.co/datasets/Laxhar/noob-wiki
