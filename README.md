@@ -5,7 +5,7 @@
 ## Features
 
 ### Character Database
-- **244,932+ indexed characters** from anime, games, and manga
+- **244,932+ indexed characters** from anime, games, and manga. some my not have tags, but most well known characters do.
 - Instant search by character name or series
 - Auto-complete with popularity sorting
 - Built-in tagging system (1girl, hair color, outfits, etc.)
