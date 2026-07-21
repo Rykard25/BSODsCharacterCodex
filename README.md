@@ -164,16 +164,6 @@ Requires ES6+ support and CSS Grid.
 
 ---
 
-### Screenshots
-
-*[Interface showing the three-column layout: Character search on left, prompt panels in center, scene builder on right. Dark theme with cyan accents and animated lava background.]*
-
-*[Scene builder showing the tag categories with the randomize button and NSFW toggle.]*
-
-*[The prompt output showing formatted tags ready to copy with token count.]*
-
----
-
 ### Download
 
 **Version:** 3.5  
