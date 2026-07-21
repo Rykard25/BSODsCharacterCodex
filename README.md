@@ -1,4 +1,4 @@
-# BSOD's Character Codex v3.5
+# BSOD's Character Codex v4
 ## The Ultimate Browser-Based Prompt Builder for Stable Diffusion
 
 **No installation. No dependencies. Just open the HTML file and start building.**
@@ -13,19 +13,15 @@ Think of it as your personal prompt assistant—searchable, customizable, and co
 
 ---
 
-### What's New in v3.5
+### What's New in v4
 
-**18 Color Themes** — From Midnight Cyan to Toxic Green to Royal Gold. Each theme features animated lava backgrounds with glowing blobs.
+**Enhanced Visual Effects** — New animated glow system with pulsing borders, floating tags, shimmer backgrounds, and smooth transitions throughout the interface.
 
-**NSFW Scene Builder** — Toggleable mature content section with 180+ tags for 18+ artwork generation. Off by default, one-click enable.
+**6 Audio Tracks** — Now including Jazz alongside Ambient, Piano, Lofi, Guitar, and Synth background music with volume control.
 
-**Enhanced Visual Effects** — Animated glows, floating tags, shimmer backgrounds, and smooth transitions throughout.
+**Improved UI/UX** — Refined styling with better shadows, responsive design, and smoother animations across all 18 themes.
 
-**5 Audio Tracks** — Ambient, Piano, Lofi, Guitar, and Synth background music with volume control.
-
-**Improved Tag Search** — Search across all categories or filter by specific sections. Auto-expands matching categories.
-
-**Character Import** — Import custom characters via TXT or CSV files. Supports Danbooru-style tag formats.
+**Performance Optimizations** — Faster tag rendering and improved search responsiveness for the 244K+ character database.
 
 ---
 
@@ -80,6 +76,8 @@ Switch between A1111, NovelAI, Compel/ComfyUI, Plain text, or Krea 2 natural lan
 - Abyss (teal/black)
 - Candy (pastel blue)
 
+Each theme features animated lava backgrounds with glowing blobs and enhanced visual effects.
+
 ---
 
 ### Why Use This?
@@ -100,7 +98,7 @@ Switch between A1111, NovelAI, Compel/ComfyUI, Plain text, or Krea 2 natural lan
 
 **Notepad** — Jot down ideas while you build. Auto-saves to browser storage.
 
-**Background Music** — Optional ambient, piano, lofi, guitar, or synth tracks while you work.
+**Background Music** — Optional ambient, piano, lofi, guitar, jazz, or synth tracks while you work.
 
 ---
 
@@ -149,6 +147,7 @@ Click "Import Characters" → Choose file(s). Imported characters appear at top 
 - **Web Audio API** — For optional background music
 - **CSS Grid/Flexbox** — Responsive layout system
 - **CSS Variables** — Dynamic theming with animated backgrounds
+- **Enhanced Animations** — CSS keyframe animations for glow effects and transitions
 - **File Size** — ~260KB including the entire character database
 
 ---
@@ -166,33 +165,36 @@ Requires ES6+ support and CSS Grid.
 
 ### Download
 
-**Version:** 3.5  
-**File:** `BSOD_sCharacterCodexV3_5.html`  
+**Version:** 4.0  
+**File:** `BSOD_sCharacterCodexV4.html`  
 **Size:** ~260KB
 
 ---
 
 ### Changelog
 
+**v4.0**
+- Added Jazz audio track (6 total music options)
+- Enhanced glow effects with animated pulsing borders
+- Floating tag animations with hover glow
+- Improved responsive design and mobile support
+- Better shadow effects and depth throughout UI
+- Performance optimizations for large databases
+- Smoother transitions and micro-interactions
+
 **v3.5**
-- Added 8 new themes (Crimson, Frost, Nord, Sakura, Toxic, Royal, Abyss, Candy) — 18 total
-- Added NSFW/Mature scene builder section with 180+ tags (toggleable)
-- Enhanced glow effects and animations throughout UI
-- Added Guitar and Synth background music tracks (5 total)
+- Added 8 new themes (18 total)
+- Added NSFW/Mature scene builder section with 180+ tags
+- Added Guitar and Synth music tracks
 - Improved tag search with category filtering
 - Added 100+ new object/prop tags
-- Performance optimizations for large databases
 
-**v3.4**
-- Added 10 themes with animated lava backgrounds
-- Added Piano and Lofi music tracks
-- Enhanced visual effects and transitions
-
-**v3.0-3.3**
+**v3.0-3.4**
 - Initial release with character database
-- Scene builder with 6 categories
+- Scene builder with 7 categories
 - Model and style presets
 - Import/export functionality
+- 10 original themes with lava backgrounds
 
 ---
 
